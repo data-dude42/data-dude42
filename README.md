@@ -4,36 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Paras Singh - Web Developer</title>
-  <style>
-    /* Add your custom styles here (optional) */
-    body {
-      font-family: sans-serif;
-      line-height: 1.5;
-      margin: 20px;
-    }
-    h1, h2, h3 {
-      margin-bottom: 10px;
-    }
-    .avatar {
-      width: 150px;
-      border-radius: 50%;
-      margin-bottom: 10px;
-    }
-    .badge {
-      display: inline-block;
-      padding: 5px 10px;
-      border-radius: 4px;
-      font-size: 12px;
-    }
-    .badge.primary {
-      background-color: #3498db;
-      color: white;
-    }
-    .badge.secondary {
-      background-color: #7f8c8d;
-      color: white;
-    }
-  </style>
+  
 </head>
 <body>
 
