@@ -38,7 +38,8 @@
 
   <h1>Paras Singh - Web Developer</h1>
   <p>I'm a passionate web developer building cool things for the web.</p>
-  <img src="[Your Avatar Image URL]" alt="Paras Singh Avatar" class="avatar">
+  <img src="![WhatsApp Image 2024-05-08 at 11 30 43 PM](https://github.com/data-dude42/data-dude42/assets/159608516/71a5a562-7de4-4134-98e6-66f6f94a04f8)
+" alt="Paras Singh Avatar" class="avatar">
 
   <h2>Skills</h2>
   <ul>
