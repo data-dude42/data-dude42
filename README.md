@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Paras Singh - Web Developer</title>
   <style>
-    /* Add your custom styles here (optional) */
     body {
       font-family: sans-serif;
       line-height: 1.5;
