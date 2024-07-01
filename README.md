@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![logo](https://github.com/data-dude42/data-dude42/blob/main/banner.jpg)
 <a href="https://linkedin.com/in/paras singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras singh" height="30" width="40" /></a>
 <a href="https://instagram.com/paras singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paras singh" height="30" width="40" /></a>
 </p>
