@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=data-dude42&label=Profile%20views&color=0e75b6&style=flat" alt="data-dude42" /> </p>
 
-- 🌱 I’m currently developing SAAS software using OpenAI | Vercel | NextJs | TailWind.
+- 🌱 I’m currently developing SAAS software using nexrJs, pinecone, SQL (AI comapanion)
 
 - 👨‍💻 All of my projects are available at [https://github.com/data-dude42](https://github.com/data-dude42)
 
